@@ -1,5 +1,5 @@
 {
-  "name": "promise-break",
+  "name": "promise-chain-break",
   "version": "0.1.0",
   "description": "PB is a simple promise flow control helper",
   "main": "pb.js",

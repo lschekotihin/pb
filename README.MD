@@ -11,11 +11,11 @@ It is based on https://github.com/petkaantonov/bluebird/issues/581 issue.
 
 ### Installation
 ```bash
-    $ npm install --save promise-break
+    $ npm install --save promise-chain-break
 ```
 
 ```javascript
-    const pb = require('promise-break');
+    const pb = require('promise-chain-break');
 ```
 
 ### Wrapping
